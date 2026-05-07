@@ -1,0 +1,831 @@
+{
+  "type": "FeatureCollection",
+  "name": "Rio Paraíba do Sul — Estação E3",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0102,
+          -22.1701
+        ]
+      },
+      "properties": {
+        "id_coleta": 1,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 26.2,
+        "pH_med": 7.3,
+        "Turb_med": 12.5,
+        "Cond_med": 0.6,
+        "OD_med": 7.8,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 1.2,
+        "delta_pH": 0.3,
+        "delta_Turb": 2.5,
+        "delta_Cond": 0.1,
+        "delta_OD": -0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.011,
+          -22.1708
+        ]
+      },
+      "properties": {
+        "id_coleta": 2,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.8,
+        "pH_med": 6.9,
+        "Turb_med": 9.8,
+        "Cond_med": 0.55,
+        "OD_med": 8.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.8,
+        "delta_pH": -0.1,
+        "delta_Turb": -0.2,
+        "delta_Cond": 0.05,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0121,
+          -22.1716
+        ]
+      },
+      "properties": {
+        "id_coleta": 3,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, pH, Turb, Cond, OD",
+        "T_med": 31.0,
+        "pH_med": 8.2,
+        "Turb_med": 22.0,
+        "Cond_med": 1.1,
+        "OD_med": 5.5,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 6.0,
+        "delta_pH": 1.2,
+        "delta_Turb": 12.0,
+        "delta_Cond": 0.6,
+        "delta_OD": -2.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.013,
+          -22.1724
+        ]
+      },
+      "properties": {
+        "id_coleta": 4,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.1,
+        "pH_med": 7.0,
+        "Turb_med": 10.2,
+        "Cond_med": 0.51,
+        "OD_med": 7.9,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.1,
+        "delta_pH": 0.0,
+        "delta_Turb": 0.2,
+        "delta_Cond": 0.01,
+        "delta_OD": -0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0142,
+          -22.173
+        ]
+      },
+      "properties": {
+        "id_coleta": 5,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.8,
+        "pH_med": 7.1,
+        "Turb_med": 9.5,
+        "Cond_med": 0.49,
+        "OD_med": 8.2,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -0.2,
+        "delta_pH": 0.1,
+        "delta_Turb": -0.5,
+        "delta_Cond": -0.01,
+        "delta_OD": 0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.015,
+          -22.1738
+        ]
+      },
+      "properties": {
+        "id_coleta": 6,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.5,
+        "pH_med": 6.8,
+        "Turb_med": 11.0,
+        "Cond_med": 0.53,
+        "OD_med": 7.7,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.5,
+        "delta_pH": -0.2,
+        "delta_Turb": 1.0,
+        "delta_Cond": 0.03,
+        "delta_OD": -0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0163,
+          -22.1745
+        ]
+      },
+      "properties": {
+        "id_coleta": 7,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.3,
+        "pH_med": 7.2,
+        "Turb_med": 10.5,
+        "Cond_med": 0.52,
+        "OD_med": 8.0,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.3,
+        "delta_pH": 0.2,
+        "delta_Turb": 0.5,
+        "delta_Cond": 0.02,
+        "delta_OD": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0171,
+          -22.1754
+        ]
+      },
+      "properties": {
+        "id_coleta": 8,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.9,
+        "pH_med": 6.9,
+        "Turb_med": 9.9,
+        "Cond_med": 0.48,
+        "OD_med": 8.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -0.1,
+        "delta_pH": -0.1,
+        "delta_Turb": -0.1,
+        "delta_Cond": -0.02,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0185,
+          -22.1765
+        ]
+      },
+      "properties": {
+        "id_coleta": 9,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, pH, Turb, Cond, OD",
+        "T_med": 35.5,
+        "pH_med": 9.1,
+        "Turb_med": 45.0,
+        "Cond_med": 1.8,
+        "OD_med": 3.2,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 10.5,
+        "delta_pH": 2.1,
+        "delta_Turb": 35.0,
+        "delta_Cond": 1.3,
+        "delta_OD": -4.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0194,
+          -22.1773
+        ]
+      },
+      "properties": {
+        "id_coleta": 10,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.0,
+        "pH_med": 7.1,
+        "Turb_med": 10.1,
+        "Cond_med": 0.5,
+        "OD_med": 8.0,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.0,
+        "delta_pH": 0.1,
+        "delta_Turb": 0.1,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0202,
+          -22.178
+        ]
+      },
+      "properties": {
+        "id_coleta": 11,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.2,
+        "pH_med": 7.0,
+        "Turb_med": 10.4,
+        "Cond_med": 0.51,
+        "OD_med": 7.9,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.2,
+        "delta_pH": 0.0,
+        "delta_Turb": 0.4,
+        "delta_Cond": 0.01,
+        "delta_OD": -0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0213,
+          -22.1791
+        ]
+      },
+      "properties": {
+        "id_coleta": 12,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.7,
+        "pH_med": 7.2,
+        "Turb_med": 9.2,
+        "Cond_med": 0.47,
+        "OD_med": 8.3,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -0.3,
+        "delta_pH": 0.2,
+        "delta_Turb": -0.8,
+        "delta_Cond": -0.03,
+        "delta_OD": 0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0225,
+          -22.1802
+        ]
+      },
+      "properties": {
+        "id_coleta": 13,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, Turb, Cond, OD",
+        "T_med": 28.0,
+        "pH_med": 6.5,
+        "Turb_med": 55.0,
+        "Cond_med": 2.1,
+        "OD_med": 4.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 3.0,
+        "delta_pH": -0.5,
+        "delta_Turb": 45.0,
+        "delta_Cond": 1.6,
+        "delta_OD": -3.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0234,
+          -22.181
+        ]
+      },
+      "properties": {
+        "id_coleta": 14,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.2,
+        "pH_med": 7.1,
+        "Turb_med": 10.0,
+        "Cond_med": 0.51,
+        "OD_med": 8.0,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.2,
+        "delta_pH": 0.1,
+        "delta_Turb": 0.0,
+        "delta_Cond": 0.01,
+        "delta_OD": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0247,
+          -22.1821
+        ]
+      },
+      "properties": {
+        "id_coleta": 15,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, pH, Turb, Cond, OD",
+        "T_med": 22.0,
+        "pH_med": 5.1,
+        "Turb_med": 85.0,
+        "Cond_med": 3.5,
+        "OD_med": 2.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -3.0,
+        "delta_pH": -1.9,
+        "delta_Turb": 75.0,
+        "delta_Cond": 3.0,
+        "delta_OD": -5.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.026,
+          -22.1835
+        ]
+      },
+      "properties": {
+        "id_coleta": 16,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.1,
+        "pH_med": 7.2,
+        "Turb_med": 10.5,
+        "Cond_med": 0.5,
+        "OD_med": 8.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.1,
+        "delta_pH": 0.2,
+        "delta_Turb": 0.5,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0271,
+          -22.1846
+        ]
+      },
+      "properties": {
+        "id_coleta": 17,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.6,
+        "pH_med": 6.7,
+        "Turb_med": 9.1,
+        "Cond_med": 0.47,
+        "OD_med": 8.4,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -0.4,
+        "delta_pH": -0.3,
+        "delta_Turb": -0.9,
+        "delta_Cond": -0.03,
+        "delta_OD": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0283,
+          -22.1854
+        ]
+      },
+      "properties": {
+        "id_coleta": 18,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.4,
+        "pH_med": 7.3,
+        "Turb_med": 10.9,
+        "Cond_med": 0.53,
+        "OD_med": 7.6,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.4,
+        "delta_pH": 0.3,
+        "delta_Turb": 0.9,
+        "delta_Cond": 0.03,
+        "delta_OD": -0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0294,
+          -22.1867
+        ]
+      },
+      "properties": {
+        "id_coleta": 19,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, pH, Turb, Cond, OD",
+        "T_med": 32.2,
+        "pH_med": 8.8,
+        "Turb_med": 38.5,
+        "Cond_med": 1.4,
+        "OD_med": 4.5,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 7.2,
+        "delta_pH": 1.8,
+        "delta_Turb": 28.5,
+        "delta_Cond": 0.9,
+        "delta_OD": -3.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0302,
+          -22.1875
+        ]
+      },
+      "properties": {
+        "id_coleta": 20,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.9,
+        "pH_med": 7.1,
+        "Turb_med": 9.6,
+        "Cond_med": 0.49,
+        "OD_med": 8.3,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -0.1,
+        "delta_pH": 0.1,
+        "delta_Turb": -0.4,
+        "delta_Cond": -0.01,
+        "delta_OD": 0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.031,
+          -22.1884
+        ]
+      },
+      "properties": {
+        "id_coleta": 21,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, pH, Turb, Cond, OD",
+        "T_med": 15.0,
+        "pH_med": 9.5,
+        "Turb_med": 120.0,
+        "Cond_med": 5.0,
+        "OD_med": 1.5,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -10.0,
+        "delta_pH": 2.5,
+        "delta_Turb": 110.0,
+        "delta_Cond": 4.5,
+        "delta_OD": -6.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0322,
+          -22.1895
+        ]
+      },
+      "properties": {
+        "id_coleta": 22,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.2,
+        "pH_med": 7.1,
+        "Turb_med": 10.6,
+        "Cond_med": 0.51,
+        "OD_med": 8.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.2,
+        "delta_pH": 0.1,
+        "delta_Turb": 0.6,
+        "delta_Cond": 0.01,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0331,
+          -22.1904
+        ]
+      },
+      "properties": {
+        "id_coleta": 23,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.7,
+        "pH_med": 6.9,
+        "Turb_med": 9.2,
+        "Cond_med": 0.48,
+        "OD_med": 8.4,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": -0.3,
+        "delta_pH": -0.1,
+        "delta_Turb": -0.8,
+        "delta_Cond": -0.02,
+        "delta_OD": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0343,
+          -22.1915
+        ]
+      },
+      "properties": {
+        "id_coleta": 24,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.4,
+        "pH_med": 7.2,
+        "Turb_med": 11.1,
+        "Cond_med": 0.52,
+        "OD_med": 7.6,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.4,
+        "delta_pH": 0.2,
+        "delta_Turb": 1.1,
+        "delta_Cond": 0.02,
+        "delta_OD": -0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0355,
+          -22.1924
+        ]
+      },
+      "properties": {
+        "id_coleta": 25,
+        "local": "Rio Paraíba do Sul — Estação E3",
+        "data": "15/04/2025",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.1,
+        "pH_med": 6.8,
+        "Turb_med": 10.3,
+        "Cond_med": 0.5,
+        "OD_med": 7.9,
+        "T_ref": 25.0,
+        "pH_ref": 7.0,
+        "Turb_ref": 10.0,
+        "Cond_ref": 0.5,
+        "OD_ref": 8.0,
+        "delta_T": 0.1,
+        "delta_pH": -0.2,
+        "delta_Turb": 0.3,
+        "delta_Cond": 0.0,
+        "delta_OD": -0.1
+      }
+    }
+  ]
+}
