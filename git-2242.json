@@ -1,0 +1,798 @@
+{
+  "type": "FeatureCollection",
+  "name": "Lagoa de Maricá - RJ",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86598611823397,
+          -22.936434027513688
+        ]
+      },
+      "properties": {
+        "id_coleta": 1,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.2,
+        "pH_med": 7.1,
+        "Turb_med": 11.2,
+        "Cond_med": 1.0,
+        "OD_med": 7.7,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.2,
+        "delta_pH": -0.1,
+        "delta_Turb": -0.8,
+        "delta_Cond": -0.1,
+        "delta_OD": 0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86474726555879,
+          -22.938879861410687
+        ]
+      },
+      "properties": {
+        "id_coleta": 2,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.9,
+        "pH_med": 7.3,
+        "Turb_med": 13.1,
+        "Cond_med": 1.2,
+        "OD_med": 7.2,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.9,
+        "delta_pH": 0.1,
+        "delta_Turb": 1.1,
+        "delta_Cond": 0.1,
+        "delta_OD": -0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.88032734562753,
+          -22.94420455574382
+        ]
+      },
+      "properties": {
+        "id_coleta": 3,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "T, pH, Turb, Cond, OD",
+        "T_med": 28.0,
+        "pH_med": 7.9,
+        "Turb_med": 19.4,
+        "Cond_med": 1.6,
+        "OD_med": 5.9,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 3.0,
+        "delta_pH": 0.7,
+        "delta_Turb": 7.4,
+        "delta_Cond": 0.5,
+        "delta_OD": -1.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.88080013990969,
+          -22.948986938722275
+        ]
+      },
+      "properties": {
+        "id_coleta": 4,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.8,
+        "pH_med": 7.0,
+        "Turb_med": 10.8,
+        "Cond_med": 1.1,
+        "OD_med": 7.6,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": -0.2,
+        "delta_pH": -0.2,
+        "delta_Turb": -1.2,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.87985655502468,
+          -22.95382385479565
+        ]
+      },
+      "properties": {
+        "id_coleta": 5,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "atencao",
+        "parametros_criticos": "Cond",
+        "T_med": 25.1,
+        "pH_med": 7.2,
+        "Turb_med": 11.9,
+        "Cond_med": 1.4,
+        "OD_med": 7.4,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.1,
+        "delta_pH": 0.0,
+        "delta_Turb": -0.1,
+        "delta_Cond": 0.3,
+        "delta_OD": -0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.87483992880202,
+          -22.95512855684802
+        ]
+      },
+      "properties": {
+        "id_coleta": 6,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.5,
+        "pH_med": 7.3,
+        "Turb_med": 12.8,
+        "Cond_med": 1.1,
+        "OD_med": 7.3,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.5,
+        "delta_pH": 0.1,
+        "delta_Turb": 0.8,
+        "delta_Cond": 0.0,
+        "delta_OD": -0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86651817447863,
+          -22.955781022035893
+        ]
+      },
+      "properties": {
+        "id_coleta": 7,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "atencao",
+        "parametros_criticos": "Turb, OD",
+        "T_med": 26.2,
+        "pH_med": 7.4,
+        "Turb_med": 18.1,
+        "Cond_med": 1.2,
+        "OD_med": 6.0,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 1.2,
+        "delta_pH": 0.2,
+        "delta_Turb": 6.1,
+        "delta_Cond": 0.1,
+        "delta_OD": -1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86710836563518,
+          -22.95583535194035
+        ]
+      },
+      "properties": {
+        "id_coleta": 8,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.9,
+        "pH_med": 7.2,
+        "Turb_med": 11.5,
+        "Cond_med": 1.0,
+        "OD_med": 7.5,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": -0.1,
+        "delta_pH": 0.0,
+        "delta_Turb": -0.5,
+        "delta_Cond": -0.1,
+        "delta_OD": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.860203157976684,
+          -22.956161480361043
+        ]
+      },
+      "properties": {
+        "id_coleta": 9,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "atencao",
+        "parametros_criticos": "pH",
+        "T_med": 25.0,
+        "pH_med": 6.6,
+        "Turb_med": 12.3,
+        "Cond_med": 1.1,
+        "OD_med": 7.4,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.0,
+        "delta_pH": -0.6,
+        "delta_Turb": 0.3,
+        "delta_Cond": 0.0,
+        "delta_OD": -0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.855776760665464,
+          -22.955454896128746
+        ]
+      },
+      "properties": {
+        "id_coleta": 10,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.7,
+        "pH_med": 7.3,
+        "Turb_med": 13.0,
+        "Cond_med": 1.2,
+        "OD_med": 7.2,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.7,
+        "delta_pH": 0.1,
+        "delta_Turb": 1.0,
+        "delta_Cond": 0.1,
+        "delta_OD": -0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.85276688944028,
+          -22.953933107567146
+        ]
+      },
+      "properties": {
+        "id_coleta": 11,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.3,
+        "pH_med": 7.1,
+        "Turb_med": 11.7,
+        "Cond_med": 1.0,
+        "OD_med": 7.6,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.3,
+        "delta_pH": -0.1,
+        "delta_Turb": -0.3,
+        "delta_Cond": -0.1,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8448579748471,
+          -22.954856495302288
+        ]
+      },
+      "properties": {
+        "id_coleta": 12,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "atencao",
+        "parametros_criticos": "T, OD",
+        "T_med": 27.4,
+        "pH_med": 7.5,
+        "Turb_med": 14.1,
+        "Cond_med": 1.2,
+        "OD_med": 6.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 2.4,
+        "delta_pH": 0.3,
+        "delta_Turb": 2.1,
+        "delta_Cond": 0.1,
+        "delta_OD": -1.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.83836501011148,
+          -22.955616768531815
+        ]
+      },
+      "properties": {
+        "id_coleta": 13,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.1,
+        "pH_med": 7.1,
+        "Turb_med": 11.5,
+        "Cond_med": 1.0,
+        "OD_med": 7.6,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.1,
+        "delta_pH": -0.1,
+        "delta_Turb": -0.5,
+        "delta_Cond": -0.1,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86504259356324,
+          -22.951813827548108
+        ]
+      },
+      "properties": {
+        "id_coleta": 14,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.4,
+        "pH_med": 7.3,
+        "Turb_med": 13.5,
+        "Cond_med": 1.2,
+        "OD_med": 7.3,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.4,
+        "delta_pH": 0.1,
+        "delta_Turb": 1.5,
+        "delta_Cond": 0.1,
+        "delta_OD": -0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86120652517231,
+          -22.951161707217068
+        ]
+      },
+      "properties": {
+        "id_coleta": 15,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "pH, Turb, Cond, OD",
+        "T_med": 25.8,
+        "pH_med": 6.5,
+        "Turb_med": 18.0,
+        "Cond_med": 1.4,
+        "OD_med": 6.1,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.8,
+        "delta_pH": -0.7,
+        "delta_Turb": 6.0,
+        "delta_Cond": 0.3,
+        "delta_OD": -1.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.855186870690986,
+          -22.950889853236625
+        ]
+      },
+      "properties": {
+        "id_coleta": 16,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.9,
+        "pH_med": 7.2,
+        "Turb_med": 12.2,
+        "Cond_med": 1.1,
+        "OD_med": 7.5,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": -0.1,
+        "delta_pH": 0.0,
+        "delta_Turb": 0.2,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.847455624149944,
+          -22.950182907350314
+        ]
+      },
+      "properties": {
+        "id_coleta": 17,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.3,
+        "pH_med": 7.1,
+        "Turb_med": 11.0,
+        "Cond_med": 1.0,
+        "OD_med": 7.8,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.3,
+        "delta_pH": -0.1,
+        "delta_Turb": -1.0,
+        "delta_Cond": -0.1,
+        "delta_OD": 0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.84072718456197,
+          -22.95018224986454
+        ]
+      },
+      "properties": {
+        "id_coleta": 18,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "atencao",
+        "parametros_criticos": "T",
+        "T_med": 27.5,
+        "pH_med": 7.1,
+        "Turb_med": 13.0,
+        "Cond_med": 1.1,
+        "OD_med": 7.0,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 2.5,
+        "delta_pH": -0.1,
+        "delta_Turb": 1.0,
+        "delta_Cond": 0.0,
+        "delta_OD": -0.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.86999976003746,
+          -22.947792178683375
+        ]
+      },
+      "properties": {
+        "id_coleta": 19,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 24.7,
+        "pH_med": 7.0,
+        "Turb_med": 10.5,
+        "Cond_med": 1.1,
+        "OD_med": 7.7,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": -0.3,
+        "delta_pH": -0.2,
+        "delta_Turb": -1.5,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.85601322358841,
+          -22.948390037573215
+        ]
+      },
+      "properties": {
+        "id_coleta": 20,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.1,
+        "pH_med": 7.3,
+        "Turb_med": 12.5,
+        "Cond_med": 1.2,
+        "OD_med": 7.4,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.1,
+        "delta_pH": 0.1,
+        "delta_Turb": 0.5,
+        "delta_Cond": 0.1,
+        "delta_OD": -0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.84674765454274,
+          -22.947900346120182
+        ]
+      },
+      "properties": {
+        "id_coleta": 21,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.0,
+        "pH_med": 7.2,
+        "Turb_med": 11.8,
+        "Cond_med": 1.1,
+        "OD_med": 7.5,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.0,
+        "delta_pH": 0.0,
+        "delta_Turb": -0.2,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.84167200539488,
+          -22.947084617461435
+        ]
+      },
+      "properties": {
+        "id_coleta": 22,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": true,
+        "severidade": "critico",
+        "parametros_criticos": "pH, Turb, Cond, OD",
+        "T_med": 24.5,
+        "pH_med": 8.0,
+        "Turb_med": 20.0,
+        "Cond_med": 1.5,
+        "OD_med": 5.0,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": -0.5,
+        "delta_pH": 0.8,
+        "delta_Turb": 8.0,
+        "delta_Cond": 0.4,
+        "delta_OD": -2.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.84362056868546,
+          -22.940508976643343
+        ]
+      },
+      "properties": {
+        "id_coleta": 23,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.2,
+        "pH_med": 7.1,
+        "Turb_med": 12.1,
+        "Cond_med": 1.1,
+        "OD_med": 7.6,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.2,
+        "delta_pH": -0.1,
+        "delta_Turb": 0.1,
+        "delta_Cond": 0.0,
+        "delta_OD": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8543610457884,
+          -22.943607653349435
+        ]
+      },
+      "properties": {
+        "id_coleta": 24,
+        "local": "Lagoa de Maricá - RJ",
+        "data": "26/01/2026",
+        "anomalia": false,
+        "severidade": "normal",
+        "parametros_criticos": "nenhum",
+        "T_med": 25.6,
+        "pH_med": 7.3,
+        "Turb_med": 13.8,
+        "Cond_med": 1.2,
+        "OD_med": 7.2,
+        "T_ref": 25.0,
+        "pH_ref": 7.2,
+        "Turb_ref": 12.0,
+        "Cond_ref": 1.1,
+        "OD_ref": 7.5,
+        "delta_T": 0.6,
+        "delta_pH": 0.1,
+        "delta_Turb": 1.8,
+        "delta_Cond": 0.1,
+        "delta_OD": -0.3
+      }
+    }
+  ]
+}
